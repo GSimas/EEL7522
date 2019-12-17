@@ -1,4 +1,7 @@
-# 🎯EEL7522 - Processamento Digital de Sinais
+# ***🎯EEL7522 - Processamento Digital de Sinais***
+
+> "A reação mais comum da mente humana a uma conquista não é satisfação, e sim o anseio por mais." - **Yuval Noah Harari**
+
 
 **Curso**: Engenharia Eletrônica - Universidade Federal de Santa Catarina (UFSC), Florianópolis, SC, Brasil
 
