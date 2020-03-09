@@ -24,5 +24,10 @@ Referências:
 - [Currículo Curso Engenharia Eletrônica UFSC](http://cagr.sistemas.ufsc.br/relatorios/curriculoCurso?curso=235)
 
 
-![UFSC](http://laship.ufsc.br/site/wp-content/themes/emc_completo/resource/img/filiacoes/brasao_UFSC_vertical_sigla.png) ![CTC](http://tisc.com.br/wp-content/uploads/ctcufsc.gif)
+<table style="width:100%">
+  <tr>
+    <th><img width="200px" src="http://laship.ufsc.br/site/wp-content/themes/emc_completo/resource/img/filiacoes/brasao_UFSC_vertical_sigla.png"></th>
+    <th><img width="200px" src="http://tisc.com.br/wp-content/uploads/ctcufsc.gif"></th> 
+  </tr>
+</table>
 
